@@ -2,6 +2,7 @@
 
 An expense tracker web app made in React.
 
+View live at: [Demo](https://bculleec.github.io/react-expense-tracker/)
 Features:
 
 - View balance
